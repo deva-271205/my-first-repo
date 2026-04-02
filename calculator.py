@@ -1,0 +1,13 @@
+def add(a, b):
+    return a + b
+
+def subtract(a, b):
+    return a - b
+
+def multiply(a, b):
+    return a * b
+
+print("Calculator ready!")
+print("2 + 3 =", add(2, 3))
+print("5 - 2 =", subtract(5, 2))
+print("4 x 3 =", multiply(4, 3))
